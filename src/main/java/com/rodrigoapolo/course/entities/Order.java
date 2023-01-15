@@ -68,7 +68,6 @@ public class Order implements Serializable {
         return OrderStatus.valueOf(orderStatus);
     }
 
-
     public Set<OrderItem> getItems() {
         return items;
     }
