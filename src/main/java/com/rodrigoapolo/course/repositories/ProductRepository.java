@@ -1,7 +1,0 @@
-package com.rodrigoapolo.course.repositories;
-
-import com.rodrigoapolo.course.entities.Product;
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface ProductRepository extends JpaRepository<Product, Long> {
-}
