@@ -11,6 +11,7 @@ Esse projeto foi desenvolvido a fins didático com o objetivo de usar funcionali
 ## Como funciona o projeto
 
 O projeto é uma API de um e-commerce utilizando a arquitetura de software REST para desenvolve o mesmo.
+
 Métodos
 
 * GET
@@ -64,7 +65,10 @@ As instruções abaixo ir ajudar a roda o main do projeto. Para isso, siga o pas
 2. Execute o arquivo 'CourseApplication.java', como main na sua IDE no package com.rodrigoapolo.ecommerce.
 
 ## Tecnologia usada
-* Java 11
+* Java 17
 * API Collection
 * Lambda
-* Estrutura Observe
+* Programação Orientada a Objetos (POO)
+* Banco de dados H2
+* JSON  
+* Spring boot (3.0.1)
