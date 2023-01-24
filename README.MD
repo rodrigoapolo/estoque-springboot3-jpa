@@ -1,16 +1,13 @@
-# E-commerce
+# Estoque
 
-E-commerce, ou comércio eletrônico, é uma modalidade de negócio em que as transações comerciais são realizadas totalmente online.
-Desde a escolha do produto pelo cliente, até a finalização do pedido, com o pagamento, todo o processo deve ser realizado por meios digitais.
-Nesse tipo de comércio, a única etapa no mundo físico é a da logística de entrega das encomendas aos compradores.
-
+Objetivo do projeto é criar uma  API com arquitetura de software REST, que permitirá que empresas gerenciam seu estoque e também clientes, produtos e pedido fazendo fazendo requisições HTML como GET , PUT,  POST e DELETE na plataforma, além de poderem acompanhar o processo do estado do pedido.
 Esse projeto foi desenvolvido a fins didático com o objetivo de usar funcionalidade desenvolvida no curso.
 
 ![Imagem-Calculadora](img/img.png)
 
 ## Como funciona o projeto
 
-O projeto é uma API de um e-commerce utilizando a arquitetura de software REST para desenvolve o mesmo.
+O projeto é uma API de um estoque utilizando a arquitetura de software REST para desenvolve o mesmo.
 
 Métodos
 
@@ -62,7 +59,7 @@ As instruções abaixo ir ajudar a roda o main do projeto. Para isso, siga o pas
 
 1. Baixe o projeto.
 
-2. Execute o arquivo 'CourseApplication.java', como main na sua IDE no package com.rodrigoapolo.ecommerce.
+2. Execute o arquivo 'EstoqueApplication.java', como main na sua IDE no package com.rodrigoapolo.estoque.
 
 ## Tecnologia usada
 * Java 17
